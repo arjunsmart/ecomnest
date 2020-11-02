@@ -1,0 +1,2 @@
+[1011/193000.672:ERROR:exception_snapshot_win.cc(98)] thread ID 4688 not found in process
+[1017/205914.294:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
